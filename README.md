@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-(Моя первая работа)(https://zaralarssonmq.github.io/MyPage/)
+{Моя первая работа}(https://zaralarssonmq.github.io/MyPage/)
